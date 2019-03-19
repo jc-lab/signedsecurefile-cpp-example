@@ -1,0 +1,3 @@
+[submodule "signedsecurefile"]
+	path = signedsecurefile
+	url = https://github.com/jc-lab/signedsecurefile-cpp.git
